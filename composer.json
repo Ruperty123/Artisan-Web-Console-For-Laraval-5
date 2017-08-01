@@ -4,8 +4,6 @@
     "license": "MIT",
     "type": "package",
     "keywords": ["artisan", "console", "web console","laravel"],
-    "minimum-stability": "dev",
-    "prefer-stable" : true,
     "authors": [
         {
             "name": "Ruslan Kulik",
