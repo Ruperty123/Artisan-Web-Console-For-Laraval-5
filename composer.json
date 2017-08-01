@@ -2,6 +2,7 @@
     "name": "tzepifan/artisan-web-console",
     "description": "Web interface that allows run artisan commands with simple web interface",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Ruslan Kulik",
