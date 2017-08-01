@@ -2,7 +2,6 @@
     "name": "tzepifan/artisan-web-console",
     "description": "Web interface that allows run artisan commands with simple web interface",
     "license": "MIT",
-    "minimum-stability": "dev",
     "keywords": ["artisan", "console", "web console","laravel"],
     "authors": [
         {
@@ -11,6 +10,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3,<8.0-DEV"
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "php": ">=5.3"
     }
 }
