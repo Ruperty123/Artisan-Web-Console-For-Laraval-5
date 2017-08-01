@@ -3,6 +3,7 @@
     "description": "Web interface that allows run artisan commands with simple web interface",
     "license": "MIT",
     "minimum-stability": "dev",
+    "keywords": ["artisan", "console", "web console","laravel"],
     "authors": [
         {
             "name": "Ruslan Kulik",
