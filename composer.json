@@ -3,7 +3,8 @@
     "description": "Package that allows run artisan commands with simple web interface",
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "keywords": ["artisan", "console", "web console","laravel"],
     "authors": [
         {
