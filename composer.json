@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pdazcom\\LaravelWalletOne\\": "src/LaravelWalletOne/"
+            "Tzepifan\\ArtisanWebConsole\\": "packages/tzepifan/artisan-web-console/src"
         }
     }
 }
