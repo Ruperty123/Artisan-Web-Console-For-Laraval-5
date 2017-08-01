@@ -2,7 +2,7 @@
     "name": "tzepifan/artisan-web-console",
     "description": "Package that allows run artisan commands with simple web interface",
     "license": "MIT",
-    "type": "package",
+    "type": "library",
     "keywords": ["artisan", "console", "web console","laravel"],
     "authors": [
         {
@@ -11,6 +11,12 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "laravel/framework": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pdazcom\\LaravelWalletOne\\": "src/LaravelWalletOne/"
+        }
     }
 }
