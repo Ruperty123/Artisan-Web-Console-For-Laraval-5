@@ -8,7 +8,7 @@
  
  ## Installation
  
- 1. Install package with composer `composer require tzepifan/artisan-web-console`
+ 1. Install package with composer `composer require "tzepifan/artisan-web-console:dev-master"`
  2. Go to config/app.php and add service `Tzepifan\ArtisanWebConsole\ArtisanWebConsoleServiceProvider::class` to "providers" array
  3. Publish assets and config with `php artisan vendor:publish`
  4. By default console url will be `<yourdomain.com>/artisan-console/interface`
